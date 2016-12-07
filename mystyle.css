@@ -20,3 +20,6 @@ ul li{
 a:link {
 	text-decoration: none;
 }
+button:focus {
+	outline: none;
+}
