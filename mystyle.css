@@ -23,7 +23,5 @@ a:link {
 #demo button{
 	border: none;
 	padding: 5px;
-}
-body{
-background-image: url "images\w3s.png"
+	background-image: url "images\w3s.png"
 }
