@@ -21,7 +21,7 @@ a:link {
 	text-decoration: none;
 }
 #demo{
-	background-image: url ("images\w3s.png");	
+	background-image: url (w3s.png);	
 }
 #demo button{
 	border: none;
