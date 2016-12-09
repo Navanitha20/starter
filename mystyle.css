@@ -23,6 +23,7 @@ a:link {
 #demo{
 	background-image: url(images/w3s.png);
 	background-repeat: no-repeat;
+	background-size:cover;
 }
 #demo button{
 	border: none;
