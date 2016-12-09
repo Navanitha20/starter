@@ -30,3 +30,6 @@ html{
 	padding: 5px;
 	background-color: transparent;
 }
+#demo button:hover{
+	background color:#476e9e;
+}
