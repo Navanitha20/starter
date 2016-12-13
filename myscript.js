@@ -15,3 +15,6 @@ function loadDoc() {
   xhttp.open("GET", "ajax_info.txt", true);
   xhttp.send();
 }
+function getDate(){
+Date();
+}
