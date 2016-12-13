@@ -16,5 +16,5 @@ function loadDoc() {
   xhttp.send();
 }
 function getDate(){
-document.getElementById("test").innerHTML=Date();
+document.getElementById("datetime").innerHTML=Date();
 }
