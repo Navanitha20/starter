@@ -16,6 +16,9 @@ ul.navigationbar{
 ul li{
 	padding: 15px;
         margin: 30px;
+	border-radius:17px;
+	-webkit-border-radius:17px;
+	-moz-border-radius:17px;
 	}
 a:link{
 	text-decoration: none;
