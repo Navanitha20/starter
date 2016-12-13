@@ -2,23 +2,21 @@ img.imagesborder{
 	margin: 10px 10px 20px 0px;
 	padding:5px;
 	top:5px;
-	left:200px;
+	left:300px;
 	width:304px;
 	height:228px;
 	position:relative;
 	}
 ul.navigationbar{
-	width: 180px;
+	width: 300px;
 	height: 0px;
 	margin: 5px;
 	list-style: none;
+	font-size: 200%;
 	}
 ul li{
 	padding: 15px;
         margin: 30px;
-	border-radius:17px;
-	-webkit-border-radius:17px;
-	-moz-border-radius:17px;
 	}
 a:link{
 	text-decoration: none;
@@ -36,4 +34,7 @@ html{
 	background: -ms-linear-gradient(top, #378de5 5%, #79bbff 100%);
 	background: linear-gradient(top, #378de5 5%, #79bbff 100%);
 	background-color:#378de5;
+	border-radius:17px;
+	-webkit-border-radius:17px;
+	-moz-border-radius:17px;
 }
